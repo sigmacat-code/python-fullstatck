@@ -1,0 +1,107 @@
+/* h1 {
+    color: darkred;
+    font: 40px;
+    text-align: center;
+}
+
+body {
+    background-color:lightgoldenrodyellow;
+}
+
+h1{
+    font-size: 40px;
+}
+
+
+p {
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+
+button{
+    background-color: brown;
+    color: aliceblue;
+    padding: 10px 20;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.container {
+    background-color: wheat;
+    width: 350px;
+    margin: 100px auto;
+    padding:30px;
+    border-radius: 15px;
+}
+
+input{
+    padding: 12px;
+    border: 90%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+} */
+
+
+body{
+    margin: 0;
+    font-family: Arial;
+    padding:20px
+}
+
+nav{
+    background-color: gold;
+    color: blanchedalmond;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: centre;
+}
+
+.links a{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.hero{
+    background-color: lightblue;
+    text-align: center
+    
+}
+
+button{
+    background-color: aquamarine;
+    color: aliceblue;
+    padding: 12px 25px ;
+    border: none;
+
+}
+
+.heading{
+    text-align: center;
+}
+
+.container{
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+    height: 300px;
+    
+    
+}
+.card{
+    display: flex;
+    height:full;
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    
+    border:2px solid red;
+}
+
